@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Praveen-47/Praveen-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about React 
 - 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ... I spend almost 12 hours with coding
--->
+
