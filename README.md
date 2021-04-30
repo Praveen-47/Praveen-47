@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+#### Self Thought Full Stack Developer
 
 - 🔭 I’m currently working on Upwork
 - 🌱 I’m currently learning Java
