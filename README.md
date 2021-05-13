@@ -28,3 +28,8 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=praveen-47.praveen-47)
+
